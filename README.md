@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hey! I'm Jatin 👋
 
-<!--
-**Jatin07s/Jatin07s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile 😊
 
-Here are some ideas to get you started:
+- 🧑‍💻 I'm a BTech CSE student at LPU , Punjab
+- 🐍 Currently learning Python and Core CSE 
+- 💡 Just getting started with coding and trying to learn something new everyday
+- 📁 I’ve made this profile to share my practice and projects
+- 🤝 Always open to learning from others and sharing what I learn
+- 🔧 Working on improving my logic and problem-solving
+- 💬 Ask me about Python basics, Git, or anything beginner-friendly
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to check out my repos and follow along my dev journey 🚀
+for contact - wavingex777@gmail.com
