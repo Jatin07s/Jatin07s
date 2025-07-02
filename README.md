@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile 😊
 
-- 🧑‍💻 I'm a BTech CSE student at LPU , Punjab
+- 🧑‍💻 I'm a BTech CS & AI student at NST Delhi NCR RU 
 - 🐍 Currently learning Python and Core CSE 
 - 💡 Just getting started with coding and trying to learn something new everyday
 - 📁 I’ve made this profile to share my practice and projects
